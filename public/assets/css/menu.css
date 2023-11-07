@@ -1,0 +1,18 @@
+ol.draging,
+li.draging {
+    list-style: none;
+}
+
+.drag-placeholder {
+    width: 100%;
+    height: 41px;
+    background-color: white;
+    border: 1px dashed gray;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.dd-content { flex: 1; }
+
+.dd-list{
+    padding-left: 20px;
+}
